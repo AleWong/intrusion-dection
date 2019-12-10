@@ -7,3 +7,4 @@
 ![step 6](https://github.com/AleWong/intrusion-dection/blob/master/6.png)
 ![step 7](https://github.com/AleWong/intrusion-dection/blob/master/7.png)
 ![step 8](https://github.com/AleWong/intrusion-dection/blob/master/8.png)
+![step 9](https://github.com/AleWong/intrusion-dection/blob/master/9.png)
