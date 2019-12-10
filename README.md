@@ -1,2 +1,9 @@
 # intrusion-dection
 ![step 1](https://github.com/AleWong/intrusion-dection/blob/master/1.png)
+![step 2](https://github.com/AleWong/intrusion-dection/blob/master/2.png)
+![step 3](https://github.com/AleWong/intrusion-dection/blob/master/3.png)
+![step 4](https://github.com/AleWong/intrusion-dection/blob/master/4.png)
+![step 5](https://github.com/AleWong/intrusion-dection/blob/master/5.png)
+![step 6](https://github.com/AleWong/intrusion-dection/blob/master/6.png)
+![step 7](https://github.com/AleWong/intrusion-dection/blob/master/7.png)
+![step 8](https://github.com/AleWong/intrusion-dection/blob/master/8.png)
